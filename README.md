@@ -1,1 +1,1 @@
-** Learn python the hard way **s
+* Learn python the hard way
